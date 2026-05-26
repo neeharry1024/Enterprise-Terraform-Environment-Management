@@ -1,0 +1,11 @@
+environment = "dev"
+
+location = "East US"
+
+vm_size = "Standard_B1s"
+
+admin_username = "azureuser"
+admin_password = "ReplaceWithSecurePassword"
+
+enable_public_ip       = true
+enable_storage_account = false
